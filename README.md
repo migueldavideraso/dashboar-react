@@ -1,4 +1,4 @@
-# Dashboard with React, tremor, tailwind css
+# Dashboard with React, tremor and tailwind css
 
 It was made with vite
 
